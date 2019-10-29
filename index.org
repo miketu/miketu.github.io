@@ -1,4 +1,3 @@
-#+COMMENT: <link rel="stylesheet" href="code/tufte.css" type="text/css">
 #+HTML_HEAD: <style>        body { max-width: 75ch; padding: 2rem; margin: auto;} </style>
 #+OPTIONS: html-postamble:nil   html-preamble:nil toc:nil num:nil broken-links:nil
 
