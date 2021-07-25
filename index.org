@@ -35,36 +35,12 @@
 #+HTML: </center>
 
 
-* Publications
+* Select Publications
 
-1. Aro K, Wei F, Wong DT, *Tu M.* Saliva Liquid Biopsy for Point-of-Care Applications. Frontiers in Public Health [Internet]. 2017 Apr 11 [cited 2018 Nov 12];5. Available from: http://journal.frontiersin.org/article/10.3389/fpubh.2017.00077/full
-2. Ishikawa S, Sugimoto M, Kitabatake K, *Tu M*, Sugano A, Yamamori I, Iba A, Yusa K, Kaneko M, Ota S, Hiwatari K, Enomoto A, Masaru T, Iino M. Effect of timing of collection of salivary metabolomic biomarkers on oral cancer detection. Amino Acids. 2017 Apr;49(4):761–770. 
-3. Ishikawa S, Wong DTW, Sugimoto M, Gleber-Netto FO, Li F, *Tu M*, Zhang Y, Akin D, Iino M. Identification of salivary metabolites for oral squamous cell carcinoma and oral epithelial dysplasia screening from persistent suspicious oral mucosal lesions. Clinical Oral Investigations [Internet]. 2018 Dec 11 [cited 2018 Dec 24]; Available from: http://link.springer.com/10.1007/s00784-018-2777-3
-4. Kaczor-Urbanowicz KE, Martin Carreras-Presas C, Aro K, *Tu M*, Garcia-Godoy F, Wong DT. Saliva diagnostics – Current views and directions. Experimental Biology and Medicine. 2017 Mar;242(5):459–472. 
-5. Kaczor-Urbanowicz KE, Martín Carreras-Presas C, Kaczor T, *Tu M*, Wei F, Garcia-Godoy F, Wong DTW. Emerging technologies for salivaomics in cancer detection. Journal of Cellular and Molecular Medicine. 2017 Apr;21(4):640–647. 
-6. Suh M, Chen C-A, Woodbridge J, *Tu M K*, Kim JI, Nahapetian A, Evangelista LS, Sarrafzadeh M. A Remote Patient Monitoring System for Congestive Heart Failure. Journal of Medical Systems. 2011 May 25;35(5):1165–1179. 
-7. *Tu M*, Cheng J, Chen Y-L, Jea W-C, Chen W-L, Chen C-J, Ho C-L, Huang W-L, Lin C-C, Su W-C, Ye Q, Deignan J, Grody W, Li F, Chia D, Wei F, Liao W, Wong DTW, Strom CM. Electric Field Induced Release and Measurement (EFIRM): Characterization and Technical Validation of a Novel Liquid Biopsy Platform in Plasma and Saliva. The Journal of Molecular Diagnostics. 2020 Jun;S1525157820303500. 
-8. *Tu M*, Chia D, Wei F, Wong D. Liquid biopsy for detection of actionable oncogenic mutations in human cancers and electric field induced release and measurement liquid biopsy (eLB). The Analyst [Internet]. 2016 [cited 2016 Jan 2]; Available from: http://xlink.rsc.org/?DOI=C5AN01863C
-9. *Tu M*, Wei F, Yang J, Wong D. Detection of Exosomal Biomarker by Electric Field-induced Release and Measurement (EFIRM). Journal of Visualized Experiments [Internet]. 2015 Jan 23 [cited 2016 Apr 22];(95). Available from: http://www.jove.com/video/52439/detection-exosomal-biomarker-electric-field-induced-release
-10. *Tu M*, Wong MY, Sun X, Dai M, Huang R, Chen Y, Lin X, Yang A, Zheng Q, Liao W. Rapid PCR-free meat species mitochondrial DNA identification using Electric Field Induced Release and Measurement (EFIRM®). Analytica Chimica Acta. 2020 Feb;1099:68–74. 
-11. Wang A, Wang C, *Tu M*, Wong D. Oral Biofluid Biomarker Research: Current Status and Emerging Frontiers. Diagnostics. 2016 Dec 17;6(4):45. 
-12. Wang C, Wang A, Wei F, Wong DTW, *Tu M*. Electric Field-Induced Disruption and Releasing Viable Content from Extracellular Vesicles. In: Kuo WP, Jia S, editors. Extracellular Vesicles [Internet]. New York, NY: Springer New York; 2017 [cited 2018 Nov 12]. p. 367–376. Available from: http://link.springer.com/10.1007/978-1-4939-7253-1_30
-13. Wang Z, Li F, Rufo J, Chen C, Yang S, Li L, Zhang J, Cheng J, Kim Y, Wu M, Abemayor E, *Tu M*, Chia D, Spruce R, Batis N, Mehanna H, Wong DTW, Huang TJ. Acoustofluidic Salivary Exosome Isolation. The Journal of Molecular Diagnostics. 2020 Jan;22(1):50–59. 
-14. Wei F, Strom CM, Cheng J, Lin C-C, Hsu C-Y, Soo Hoo GW, Chia D, Kim Y, Li F, Elashoff D, Grognan T, *Tu M*, Liao W, Xian R, Grody WW, Su W-C, Wong DTW. Electric Field–Induced Release and Measurement Liquid Biopsy for Noninvasive Early Lung Cancer Assessment. The Journal of Molecular Diagnostics. 2018 Nov;20(6):738–742. 
-15. Wei F, Strom C, Xian R, Liao W, Cheng J, *Tu M*, Chia D, Kim Y, Li F, Lin C, Su W-C, Grody W, Wong DT. Technical validation of the electric field-induced release and measurement (EFIRM) assay for the detection of EGFR mutations in circulating cell free DNA in plasma and saliva. JCO. 2018 May 20;36(15_suppl):e24172–e24172. 
+- M. Tu et al., “Rapid PCR-Free Meat Species Identification using Electric Field Induced Release and Measurement (EFIRM®),” Analytica Chimica Acta, p. S000326701931414X, Nov. 2019, doi: 10.1016/j.aca.2019.11.051.
+- M. Tu et al., “Electric Field Induced Release and Measurement (EFIRM): Characterization and Technical Validation of a Novel Liquid Biopsy Platform in Plasma and Saliva,” The Journal of Molecular Diagnostics, p. S1525157820303500, Jun. 2020, doi: 10.1016/j.jmoldx.2020.05.005.
+- M. Tu, D. Chia, F. Wei, and D. Wong, “Liquid biopsy for detection of actionable oncogenic mutations in human cancers and electric field induced release and measurement liquid biopsy (eLB),” The Analyst, 2016, doi: 10.1039/C5AN01863C.
+- M. Suh et al., “A Remote Patient Monitoring System for Congestive Heart Failure,” Journal of Medical Systems, vol. 35, no. 5, pp. 1165–1179, May 2011, doi: 10.1007/s10916-011-9733-y.
+- [[http://www.zotero.org/emtu][[Full list]​]]
 
-
-* Conferences
-
-(Poster) American Association of Clinical Chemistry 2017 Meeting
-
-(Poster) Biomedical Engineering Society Annual Meeting 2017
-
-(Poster) World Congress of Biosensors 2018 Meeting
-
-(Presentation) Analytical Chemistry Society 256th Annual Meeting (2018)
-
-(Poster) International Association for the Study of Lung Cancer 2018 Meeting
-
-(Poster) American Society of Human Genetics 2018 Meeting
 
