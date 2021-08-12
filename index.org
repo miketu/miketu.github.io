@@ -1,9 +1,9 @@
 #+HTML_HEAD: <style>        body { max-width: 75ch; padding: 2rem; margin: auto; font-family: 'Open Sans Condensed', sans-serif;} a {color: grey;} </style>
 #+LATEX_CLASS: article
-#+LATEX_CLASS_OPTIONS: [letterpaper,10pt]
+#+LATEX_CLASS_OPTIONS: [letterpaper,12pt]
 #+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
 #+OPTIONS: html-postamble:nil html-scripts:nil author:nil  html-preamble:nil toc:nil num:nil broken-links:t  html-style:nil
-
 
 #+TITLE: Michael Tu, PhD
 
