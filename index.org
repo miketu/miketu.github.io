@@ -1,4 +1,4 @@
-#+HTML_HEAD: <style>        body { max-width: 75ch; padding: 2rem; margin: auto; font-family: 'Open Sans Condensed', sans-serif;} a {color: grey;} </style>
+#+HTML_HEAD:<link href="https://free.bboxtype.com/embedfonts/?family=FiraSans:400" rel="stylesheet"> <style>        body { max-width: 75ch; padding: 2rem; margin: auto; font-family: 'Fira Sans', sans-serif;} a {color: grey;} </style>
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [letterpaper,10pt]
 #+LATEX_HEADER: \usepackage{lmodern}
