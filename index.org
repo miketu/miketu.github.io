@@ -43,6 +43,6 @@
 - M. Tu et al., “Electric Field Induced Release and Measurement (EFIRM): Characterization and Technical Validation of a Novel Liquid Biopsy Platform in Plasma and Saliva,” The Journal of Molecular Diagnostics, p. S1525157820303500, Jun. 2020, doi: 10.1016/j.jmoldx.2020.05.005.
 - M. Tu, D. Chia, F. Wei, and D. Wong, “Liquid biopsy for detection of actionable oncogenic mutations in human cancers and electric field induced release and measurement liquid biopsy (eLB),” The Analyst, 2016, doi: 10.1039/C5AN01863C.
 - M. Suh et al., “A Remote Patient Monitoring System for Congestive Heart Failure,” Journal of Medical Systems, vol. 35, no. 5, pp. 1165–1179, May 2011, doi: 10.1007/s10916-011-9733-y.
-- [[https://orcid.org/0000-0002-7227-4030][[Full list📃]]]
+- [[https://orcid.org/0000-0002-7227-4030][ (Full list📃) ]]
 
 
