@@ -9,7 +9,7 @@
 
 |                |                        |                          |     |
 |----------------|------------------------|--------------------------|-----|
-| 2020 - Present | Liquid Diagnostics LLC | Chief Scientific Officer |     |
+| 2020 - Present | Liquid Diagnostics LLC | Consulting Scientist |     |
 | 2017 - 2020    | EZLife Bio Inc         | R&D Director             |     |
 | 2015 - 2017    | UCLA Dentistry         | T90 Postdoctoral Scholar |     |
 | 2012-2015      | UCLA Dentistry         | T32 Predoctoral Scholar  |     |
